@@ -1,0 +1,105 @@
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+.div-1{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 100px 0px 100px;
+    align-items: center;
+}
+.btn-primary{
+   padding: 10px;
+   background-color: aliceblue;
+}
+.header-img-section{
+    text-align: center;
+    margin-top: 50px;
+    background-image: url(../images/Hero-bg.png);
+    height: 510px;
+    border: 1px dotted black;
+}
+.section-title{
+    font-size: 30px;
+}
+.header-btn{
+    padding: 10px;
+    background-color: darkslateblue;
+    border: none;
+}
+.main-section1{
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+.main-div1{
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.main-div2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 180px;
+}
+.main-div3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.main-section2{
+    text-align: center;
+}
+.main-section3{
+    text-align: center;
+    margin-top: 70px;
+}
+.target{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+.main-section4{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+.next-target1, .next-target2, .next-target3, .next-target4{
+    display: flex;
+  align-items: center;
+  margin-left: 300px;
+  margin-top: 5px;
+  border-radius: 5px;
+  width: 800px;
+  border: 1px solid black;
+  
+}
+.sg{
+    width: 200px;
+}
+.footer1{
+    margin-top: 70px;
+    text-align: center;
+    background-image: url(../images/handshake.jpg);
+    height: 250px;
+    width: 1140px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+.support{
+  margin-top: 70px;
+}
+.footer-last{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    align-items: center;
+}
+body{
+    font-style: oblique;
+}
